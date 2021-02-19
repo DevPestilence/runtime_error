@@ -1,0 +1,7 @@
+========= RESTART: C:/Users/ANPINK (Business)/Desktop/runtime_error.py =========
+Enter age before proceeding:21
+Traceback (most recent call last):
+  File "C:/Users/ANPINK (Business)/Desktop/runtime_error.py", line 9, in <module>
+    elif age == maximum_age:
+NameError: name 'maximum_age' is not defined
+>>> 
